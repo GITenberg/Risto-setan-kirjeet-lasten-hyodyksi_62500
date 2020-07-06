@@ -1,0 +1,31 @@
+_repo: Risto-setan-kirjeet-lasten-hyodyksi_62500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gumpert, Thekla von
+    birthdate: 1810
+    deathdate: 1897
+    gutenberg_agent_id: '44449'
+    url: http://www.gutenberg.org/2009/agents/44449
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Thekla_von_Gumpert
+    - https://fi.wikipedia.org/wiki/Thekla_von_Gumpert
+description: ''
+gutenberg_issued: '2020-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62500'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, German -- Translations into Finnish'
+- GITenberg
+tableOfContents: Koti -- Matkavaunut -- Ilmalaiva -- Purjelaiva -- Erämaan laiva --
+  Höyryvaunu -- Aarniometsä -- Farmi -- Sokerimaa -- Teen saanti -- Sukelluskello
+  -- Wuorikaivanto.
+title: Risto setän kirjeet, lasten hyödyksi
+url: http://www.gutenberg.org/ebooks/62500
